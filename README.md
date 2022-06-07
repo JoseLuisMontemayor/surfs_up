@@ -12,8 +12,8 @@ Next you can see the Data Temp for June:
 
 ![](https://github.com/JoseLuisMontemayor/surfs_up/blob/main/june_temps.PNG)
 
-Next we have the Data Temp for December: 
+Then we have the Data Temp for December: 
 
---
+![](https://github.com/JoseLuisMontemayor/surfs_up/blob/main/december_temps.PNG)
 
 
