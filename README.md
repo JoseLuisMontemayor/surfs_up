@@ -16,4 +16,4 @@ Then we have the Data Temp for December:
 
 ![](https://github.com/JoseLuisMontemayor/surfs_up/blob/main/december_temps.PNG)
 
-
+### Summary
