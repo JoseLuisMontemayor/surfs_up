@@ -10,7 +10,7 @@ The purpose of this project is to analyze the temperature in Oahu before opening
 
 Next you can see the Data Temp for June:
 
----
+![](https://github.com/JoseLuisMontemayor/surfs_up/blob/main/june_temps.PNG)
 
 Next we have the Data Temp for December: 
 
