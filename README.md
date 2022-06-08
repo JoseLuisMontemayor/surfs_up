@@ -19,3 +19,14 @@ Then we have the Data Temp for December:
 ### Summary
 
 As the results show, the average temperature of June is higher than December´s, but not as much as expected. It surely will attract more customers on June, but it can as well sell in December. So, to open the store on June would be a good decision, but also to open it in December is not as bad as one would think. 
+
+To have more data to make a decision, I would also take into account the precipitation lists, for which I would use the next codes;
+
+For the information of June, I would use the next queries:
+
+sdfg
+
+And for the information of December I would use the next:
+
+asdf
+
