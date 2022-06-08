@@ -28,5 +28,5 @@ For the information of June, I would use the next queries:
 
 And for the information of December I would use the next:
 
-asdf
+![](https://github.com/JoseLuisMontemayor/surfs_up/blob/main/precip_dec.PNG)
 
