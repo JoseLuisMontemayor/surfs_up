@@ -17,3 +17,5 @@ Then we have the Data Temp for December:
 ![](https://github.com/JoseLuisMontemayor/surfs_up/blob/main/december_temps.PNG)
 
 ### Summary
+
+As the results show, the average temperature of June is higher than December´s, but not as much as expected. It surely will attract more customers on June, but it can as well sell in December. So, to open the store on June would be a good decision, but also to open it in December is not as bad as one would think. 
