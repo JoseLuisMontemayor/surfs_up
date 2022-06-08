@@ -24,7 +24,7 @@ To have more data to make a decision, I would also take into account the precipi
 
 For the information of June, I would use the next queries:
 
-sdfg
+![](https://github.com/JoseLuisMontemayor/surfs_up/blob/main/precip_june.PNG)
 
 And for the information of December I would use the next:
 
